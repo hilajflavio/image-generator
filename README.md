@@ -1,5 +1,15 @@
 # extension-vuejs - Random Dog Image Generator Extension
 
+## How to load the Extension in Chrome:
+
+#### Open Chrome and go to chrome://extensions/.
+
+#### Enable Developer mode (top right corner).
+
+#### Click Load unpacked and choose the extension folder (which you will dowload from the release section in this Github repository and unpack the extension.zip file)
+
+#### The extension should now appear in the extensions list with its icon.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
@@ -33,13 +43,3 @@ npm run build
 ```sh
 npm run lint
 ```
-
-### Load the Extension in Chrome:
-
-#### Open Chrome and go to chrome://extensions/.
-
-#### Enable Developer mode (top right corner).
-
-#### Click Load unpacked and choose the dist directory that Vite generated.
-
-#### The extension should now appear in the extensions list with its icon.
